@@ -24,10 +24,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Papiyas\\Notifications\\EasySms\\EasySmsServiceProvider"
+                "Papiyas\\Notifications\\EasySms\\Providers\\EasySmsServiceProvider"
             ]
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "dev"
     "prefer-stable": true
 }
